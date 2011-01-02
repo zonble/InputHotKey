@@ -1,0 +1,3 @@
+[submodule "ExternalLibrary/DDHotKey"]
+	path = ExternalLibrary/DDHotKey
+	url = https://github.com/davedelong/DDHotKey.git
