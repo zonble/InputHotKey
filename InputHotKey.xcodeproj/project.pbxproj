@@ -234,6 +234,7 @@
 				GCC_PREFIX_HEADER = InputHotKey_Prefix.pch;
 				INFOPLIST_FILE = "InputHotKey-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
 				PRODUCT_NAME = InputHotKey;
 			};
 			name = Debug;
@@ -248,6 +249,7 @@
 				GCC_PREFIX_HEADER = InputHotKey_Prefix.pch;
 				INFOPLIST_FILE = "InputHotKey-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
 				PRODUCT_NAME = InputHotKey;
 			};
 			name = Release;
